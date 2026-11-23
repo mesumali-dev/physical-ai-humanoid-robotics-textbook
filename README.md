@@ -1,4 +1,4 @@
-# 🤖 Physical AI & Humanoid Robotics — Interactive Digital Curriculum
+# 🤖 Physical AI & Humanoid Robotics | Interactive Digital Curriculum
 
 [![Docusaurus](https://img.shields.io/badge/Docusaurus-v3-green?style=flat-square&logo=docusaurus)](https://docusaurus.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -45,4 +45,4 @@ npm run start
 ---
 
 ## 👨‍💻 Maintainer
-**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
+**Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
