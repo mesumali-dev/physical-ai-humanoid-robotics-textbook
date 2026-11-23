@@ -1,4 +1,4 @@
-# 🤖 Physical AI & Humanoid Robotics | Interactive Digital Curriculum
+# Physical AI & Humanoid Robotics | Interactive Digital Curriculum
 
 [![Docusaurus](https://img.shields.io/badge/Docusaurus-v3-green?style=flat-square&logo=docusaurus)](https://docusaurus.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📚 Curriculum Structure
+## Curriculum Structure
 
 1. **Foundations of Physical AI:** Embodied cognition, perception-action loops, and real-time sensory processing.
 2. **Humanoid Kinematics & Dynamics:** Forward/inverse kinematics, center of mass, and bipedal locomotion.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Documentation Engine:** Docusaurus v3
 - **Frontend Core:** React, TypeScript
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Setup & Run Locally
+## Setup & Run Locally
 
 ```bash
 # Clone the repository
@@ -44,5 +44,5 @@ npm run start
 
 ---
 
-## 👨‍💻 Maintainer
+## ‍ Maintainer
 **Syed Mesum Ali** - [@mesumali-dev](https://github.com/mesumali-dev)
